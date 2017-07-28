@@ -1,3 +1,3 @@
 # cse
 
-Scrapy project to scrape stock data from cse.lk
+Scrapy project to scrape Colombo Stock Exchange data from cse.lk website.
